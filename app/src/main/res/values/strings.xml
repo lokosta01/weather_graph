@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="city_name">name_city</string>
+    <string name="country_name">name_country</string>
+    <string name="temperature">11C</string>
+    <string name="temperature_format">%s °C</string>
+    <string name="description">description</string>
+    <string name="description_format">description: %s</string>
+    <string name="speed">wind_speed</string>
+    <string name="speed_format">speed of wind: %s m/s</string>
+    <string name="humidity">humidity</string>
+    <string name="humidity_format">humidity: %s %%</string>
+    //facebook
+    <string name="facebook_app_id">462554157870136</string>
+    <string name="fb_login_protocol_scheme">462554157870136</string>
+</resources>
